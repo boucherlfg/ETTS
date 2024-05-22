@@ -1,0 +1,14 @@
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\bin\Debug\net8.0\SpeechSynth2.exe
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\bin\Debug\net8.0\SpeechSynth2.deps.json
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\bin\Debug\net8.0\SpeechSynth2.runtimeconfig.json
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\bin\Debug\net8.0\SpeechSynth2.dll
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\bin\Debug\net8.0\SpeechSynth2.pdb
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.AssemblyInfoInputs.cache
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.AssemblyInfo.cs
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.csproj.CoreCompileInputs.cache
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.dll
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\refint\SpeechSynth2.dll
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.pdb
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\SpeechSynth2.genruntimeconfig.cache
+C:\Users\regli\source\repos\SpeechSynth2\SpeechSynth2\obj\Debug\net8.0\ref\SpeechSynth2.dll

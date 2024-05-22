@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpeechSynth2/1.0.0": {
+        "runtime": {
+          "SpeechSynth2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpeechSynth2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
